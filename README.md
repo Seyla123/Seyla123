@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Seyla 👋
 
-<!--
-**Seyla123/Seyla123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,express,react,nextjs,vue" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,postman,postgresql,mongodb,figma" />
+</p>
+
+---
+
+### 🔥 My GitHub Stats
+
+[![Seyla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seyla123&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Seyla's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seyla123&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 👀 Profile Views
+
+![Visitor Count](https://komarev.com/ghpvc/?username=seyla123&color=ff69b4&style=for-the-badge)
