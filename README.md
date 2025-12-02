@@ -5,17 +5,18 @@
 ### 💻 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,express,react,nextjs,vue" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,postman,postgresql,mongodb,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,express,react,nextjs,vue" alt="HTML, CSS, JavaScript, Express, React, Next.js, Vue" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,postman,postgresql,mongodb,figma" alt="Python, PHP, Laravel, Postman, PostgreSQL, MongoDB, Figma" />
 </p>
 
 ---
 
-### 🔥 My GitHub Stats
+### 🏆 My GitHub Stats & Achievements
 
-[![Seyla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seyla123&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Seyla's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seyla123&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=seyla123&theme=radical&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Seyla's Top Languages](https://github-readme-stats-academic.vercel.app/api/top-langs/?username=seyla123&layout=compact&theme=radical&hide_border=true)](https://github.com/EthanJamesLew/github-readme-stats-academic)
 
 ---
 
