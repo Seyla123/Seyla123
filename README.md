@@ -14,8 +14,6 @@
 
 ### 🏆 My GitHub Stats & Achievements
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=seyla123&theme=radical&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Seyla's Top Languages](https://github-readme-stats-academic.vercel.app/api/top-langs/?username=seyla123&layout=compact&theme=radical&hide_border=true)](https://github.com/EthanJamesLew/github-readme-stats-academic)
 
 ---
